@@ -13,7 +13,7 @@ A sleek and responsive Weather App built with [Your Tech Stack, e.g., React & Op
 
 ## 🖥️ Demo Link for Netlify  :
 
-https://app.netlify.com/projects/wheatherapps/overview
+https://app.netlify.com
 
 ## 🛠️ Tech Stack
 
