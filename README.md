@@ -11,9 +11,9 @@ A sleek and responsive Weather App built with [Your Tech Stack, e.g., React & Op
 - 📱 Fully responsive UI for mobile and desktop
 - 🎨 Minimalistic and modern design
 
-## 🖥️ Demo
+## 🖥️ Demo Link for Netlify  :
 
-Check out the live demo: wheatherapps.netlify.app
+https://app.netlify.com/projects/wheatherapps/overview
 
 ## 🛠️ Tech Stack
 
